@@ -6,5 +6,5 @@ If you clone this repo , make sure to edit the file path for the passwords.txt f
 
 Once you edit the path for the passwords list file, exceute the script after you "cd" into the Bruteforce1 directory on your terminal with:
 
-python bruteforce.py -H <target host> -u <user> -F <password file>
+python bruteforce.py -H target host -u user -F password file path
 
