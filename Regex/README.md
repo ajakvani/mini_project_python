@@ -2,7 +2,7 @@
 
 This app allows you to sift through a list and print credit card numbers that satisfy two conditions:
 
-1- must 16 digits
+1- must be 16 digits <br>
 2- they might contain hyphens
 the formula for the regex number sequence is : 
 # r'^(\d{4}\-?){3}\d{4}$'
